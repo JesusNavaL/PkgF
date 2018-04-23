@@ -1,0 +1,5 @@
+FreeBSD: { enabled: no}
+
+Unofi: { url: "pkg+https://github.com/JesusNavaL/PkgF/raw/master/Repos",
+       mirror_type: "srv",
+       enabled: yes}
